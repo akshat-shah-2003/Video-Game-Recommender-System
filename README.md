@@ -1,5 +1,5 @@
 # Video-Game-Recommender-System
-Best Video Game Recommender System specially for game lovers. You just need to enter the name of your favourite game, and the system will suggest you 5 similar games.
+A System specially for game lovers. You just need to enter the name of your favourite game, and the system will suggest you 5 similar games.
 
 # Instructions
 1. Open terminal in current directory and install requirements.txt using
